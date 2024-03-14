@@ -1,0 +1,11 @@
+{
+  "name": "professional-setup-2",
+  "version": "1.0.0",
+  "description": "professiona setup ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sachman singh",
+  "license": "ISC"
+}
